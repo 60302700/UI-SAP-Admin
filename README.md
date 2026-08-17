@@ -1,4 +1,4 @@
-# EBITEX Admin Panel
+# CostEngine Admin Panel
 
 Frontend for EBITEX RFQ operations, approval workflows, SAP synchronization monitoring, and governance auditing.
 
